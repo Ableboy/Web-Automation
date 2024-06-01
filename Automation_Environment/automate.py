@@ -58,7 +58,7 @@ service = Service(executable_path='./chromedriver.exe')
  
 chrome_browser = webdriver.Chrome(service=service)
 
-'''Takes the user to automate web browswer just like how human interate with a browser'''
+'''Takes the User to automate web browswer just like how human interact with a browser'''
 import time # This keeps the browser opening
 from selenium import webdriver # This make it possible to use code to navigate and test the browser
 from selenium.webdriver.common.by import By # This method allow selector into the browser body page

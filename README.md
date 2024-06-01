@@ -45,7 +45,7 @@ pip install -r requirements.txt
 3. Run the script to automate the web browser:
 
 ``` bash
-Copy code
+
 python automate.py
 ```
 
